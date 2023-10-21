@@ -80,19 +80,19 @@ main .img {
 }
 
 .box1 {
-  background-image: url(./img/_2f630ed9-a45a-4e7d-8081-cd01ce4686f5.jpeg);
+  background-image: url(./img/1.jpeg);
 }
 .box2 {
-  background-image: url(./img/_4782fd50-eab6-4d6c-b3d1-6987b6848cbc.jpeg);
+  background-image: url(img/2.jpeg);
 }
 .box3 {
-  background-image: url(./img/_86720028-8308-40d3-8aba-0cf9dce15a35.jpeg);
+  background-image: url(img/3.jpeg);
 }
 .box4 {
-  background-image: url(./img/_d602d030-6b34-44aa-a0b0-e3d950a14165.jpeg);
+  background-image: url(img/4.jpeg);
 }
 .box5 {
-  background-image: url(./img/_e32d5ae0-baab-4bee-8377-b2c2bccd4e36.jpeg);
+  background-image: url(img/5.jpeg);
 }
 
 .img a {
